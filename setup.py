@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='zufaelliger',
-      version='0.2',
+      version='0.21',
       description='Der komischsten Witz im Welt',
       long_description=readme(),
       classifiers=[
